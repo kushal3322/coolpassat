@@ -128,7 +128,7 @@ const AllProducts = (props) => {
           </button>
         </div>
       </div>
-      <p>hii hooku hii hii323</p>
+      <p>hii hooku hii hii33</p>
       {search ? (
         productData &&
         productData.length > 0 &&
